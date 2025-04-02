@@ -1,1 +1,1 @@
-A few short programming excersises that aim to showcase different features of the GO programming language such as Structs, GoRoutines (concurrent programming), Slices. Just run go {file_name} with the name of the file that contains the go sample you want to run.,
+A few short programming excercises that aim to showcase different features of the GO programming language such as Structs, GoRoutines (concurrent programming), Slices. Just run go {file_name} with the name of the file that contains the go sample you want to run.,
